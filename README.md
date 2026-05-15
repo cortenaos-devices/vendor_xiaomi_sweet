@@ -1,10 +1,13 @@
-## Vendor Tree - Sweet
+## vendor tree - sweet
 
-Proprietary blobs for the `Xiaomi Redmi Note 10 Pro (Sweet)`.
+```
+proprietary blobs for the Xiaomi Redmi Note 10 Pro (Sweet)
+path: "vendor/xiaomi/sweet"
+```
 
-path: `vendor/xiaomi/sweet`
+## source information
 
-## Source Information
-
-- **Forked From:** [TheMuppets](https://github.com/TheMuppets/proprietary_vendor_xiaomi_sweet)
-- **Branch:** lineage-23.2
+```
+forked from: https://github.com/TheMuppets/proprietary_vendor_xiaomi_sweet
+branch: lineage-23.2
+```
