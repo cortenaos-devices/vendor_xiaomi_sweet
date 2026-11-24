@@ -9,5 +9,5 @@ path: "vendor/xiaomi/sweet"
 
 ```
 forked from: https://github.com/TheMuppets/proprietary_vendor_xiaomi_sweet
-branch: lineage-23.2
+branch: lineage-24.0
 ```
